@@ -8,7 +8,9 @@
 - 크기 재조정: 640 x 640
 
 
-
+## 변환 환경
+- Visual Studio Code
+- Colab Notebook
 
 
 
