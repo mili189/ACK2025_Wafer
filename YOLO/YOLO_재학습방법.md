@@ -1,5 +1,8 @@
 # YOLO 재학습 방법
 
+## 참고 영상
+- 유튜브 : https://www.youtube.com/watch?v=RaY_9i6XOos
+
 ## 1️. YOLOv11n 재학습 파일을 구글 Colab에서 실행합니다.
 
 
