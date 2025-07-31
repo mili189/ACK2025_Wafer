@@ -13,42 +13,23 @@
 3. Download options에서 Show Download Code만 선택하여 Continue를 진행합니다.
 4. 해당 코드를 복사하여 붙여넣기 합니다.
 
+<img width="1488" height="291" alt="image" src="https://github.com/user-attachments/assets/6d16d4cb-cf6b-49c0-ad2b-dfcce3ac12f8" />
+- 해당 코드의 출력 결과는 위 이미지처럼 출력되어야 합니다. 이후의 코드에서 data.yaml을 사용해야 하기 때문입니다.
+
 ## 2. GPU 설정 (런타임 유형 바꾸기)
 <img width="848" height="613" alt="image" src="https://github.com/user-attachments/assets/b2df114f-e5c1-4bc1-9300-af9f373e0b88" />
 
 
-- T4 GPU(무료 버전)이나 A100(유료 버전)을 선택하여 진행합니다.
+- T4 GPU(무료 버전)이나 A100 GPU(유료 버전)을 선택하여 진행합니다.
 - CPU의 경우 개인 컴퓨터의 CPU를 사용하기 때문에 느릴 수 있습니다.
 
 ## 3. 설정 바꾸기
 
-# 모델 학습
-results = model.train(data='/content/Wafer-Defect-Pattern-Detection-3/data.yaml', epochs=100, imgsz=640, batch=8)
+<img width="1343" height="115" alt="image" src="https://github.com/user-attachments/assets/c182f1c9-f476-409f-8472-8731193cd9ae" />
 
 - epochs는 학습 횟수라고 생각하시면 됩니다. 100회는 T4 GPU(무료 버전) 상에서 런타임이 끊기거나 너무 오래걸리기 때문에 10회 ~ 20회로 조정하시고 실행하면 됩니다.
 
-import os
-import shutil
-from google.colab import drive
-
-# Google 드라이브 마운트
-drive.mount('/content/drive')
-
-# 원본 경로
-source_path = '/content/runs'
-
-# 목적지 경로 (본인이 원하는 경로로 설정하기)
-destination_path = '/content/drive/MyDrive/ACK_2025/YOLO/Wafer-result'
-
-# 목적지 경로가 없으면 생성
-if not os.path.exists(destination_path):
-    os.makedirs(destination_path)
-
-# source_path 경로에 있는 모든 파일과 폴더를 이동
-for filename in os.listdir(source_path):
-    file_path = os.path.join(source_path, filename)
-    if os.path.isfile(file_path) or os.path.isdir(file_path):
-        shutil.move(file_path, destination_path)
+<img width="1342" height="722" alt="image" src="https://github.com/user-attachments/assets/f932ed3b-be9a-4263-9f0b-5d6afb00e3cf" />
 
 - 위 코드는 재학습 결과를 구글 드라이브 상에서 저장하는 코드입니다. 목적지 경로를 잘 설정하여 실행하면 됩니다.
 
