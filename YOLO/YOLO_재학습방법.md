@@ -5,7 +5,8 @@
 
 ## 1️. YOLOv11n 재학습 파일을 구글 Colab에서 실행합니다.
 
-<img width="2559" height="1003" alt="image" src="https://github.com/user-attachments/assets/eaca1235-47da-42bf-b419-f148f0f712f4" />
+<img width="2106" height="658" alt="image" src="https://github.com/user-attachments/assets/fa5359c5-144f-4784-bbcc-a68e2acdd411" />
+
 
 
 ## 1-2. 두 번째 셀의 Roboflow의 데이터셋을 불러오는 코드
