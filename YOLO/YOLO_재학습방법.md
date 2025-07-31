@@ -18,7 +18,7 @@
 4. 해당 코드를 복사하여 붙여넣기 합니다.
 
 
-#두 번째 셀의 코드의 출력 결과
+두 번째 셀의 코드의 출력 결과
 
 <img width="1488" height="291" alt="image" src="https://github.com/user-attachments/assets/6d16d4cb-cf6b-49c0-ad2b-dfcce3ac12f8" />
 - 해당 코드의 출력 결과는 위 이미지처럼 출력되어야 합니다. 이후의 코드에서 data.yaml을 사용해야 하기 때문입니다.
