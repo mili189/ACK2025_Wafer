@@ -3,6 +3,8 @@
 
 <img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/154aeb8d-cd52-44e0-b3de-04b900020908" />
 
+### 설명
+
 X축 : Epoch(훈련 횟수),  Y축 : Loss Value(손실 값)
 
 loss : 손실 그래프를 의미하며 YOLO 모델이 얼마나 틀렸는지에 대한 수치입니다.
@@ -13,12 +15,12 @@ cls_loss : 객체가 어떤 클래스인지에 대해서 분류할 때의 오류
 
 dfl_loss : 정밀 위치 예측을 의미하며 바운딩 박스의 경계 좌표에 대한 오류를 측정합니다.
 
-### loss Value가 낮아지면 박스 위치 정확도(box_loss), 분류 성능(cls_loss), 경계선 위치 정밀도(dfl_loss)가 향상되고 오류가 적음을 의미합니다.
-
-
 train loss : 학습 데이터의 손실 그래프
 
 val loss : 검증 데이터의 손실 그래프
+
+
+### loss Value가 낮아지면 박스 위치 정확도(box_loss), 분류 성능(cls_loss), 경계선 위치 정밀도(dfl_loss)가 향상되고 오류가 적음을 의미합니다.
 
 - 그래프가 우하향 곡선을 그리면 학습이 잘 진행됨을 의미합니다.
 
