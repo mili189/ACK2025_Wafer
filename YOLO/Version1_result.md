@@ -65,15 +65,19 @@ mAP50-95 : 5%부터 95%까지 5% 간격으로 각각의 mAP를 계산하고 평�
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/46c0635d-3921-4c2e-903d-8d6f0a407dce" />
 
 
+- Center, Donut, Edge-Ring, Random 클래스에 대해서 0.97의 정확도로 분류함
+
+- Edge-Loc, Loc은 상대적으로 낮은 정확도를 나타냄. 심지어 background와의 혼동이 심함
+
+- Near-full의 정확도가 0.85 정도로 머물러 있는 이유는 데이터가 가장 적을 뿐더러 현 Version에서 증강 기법을 적용하지 않았기 때문이라고 생각됨
 
 
 
+### 개선 사항
 
+- Edge-Loc와 Loc에 대한 개선이 필요함
 
-
-
-
-
+- 새로운 Version에서는 데이터 증강 기법을 활용할 필요가 있음
 
 
 
