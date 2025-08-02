@@ -64,6 +64,7 @@ mAP50-95 : 5%부터 95%까지 5% 간격으로 각각의 mAP를 계산하고 평�
 
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/46c0635d-3921-4c2e-903d-8d6f0a407dce" />
 
+### Verison1의 결과과
 
 - Center, Donut, Edge-Ring, Random 클래스에 대해서 0.97의 정확도로 분류함
 
@@ -73,7 +74,7 @@ mAP50-95 : 5%부터 95%까지 5% 간격으로 각각의 mAP를 계산하고 평�
 
 
 
-### 개선 사항
+### Version1의 개선 사항
 
 - Edge-Loc와 Loc에 대한 개선이 필요함
 
