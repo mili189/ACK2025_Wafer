@@ -1,5 +1,5 @@
 
-# result.png : Version1의 재학습에 대한 손실 그래프와 성능 지표를 보여줍니다.
+# result.png : Version3의 재학습에 대한 손실 그래프와 성능 지표를 보여줍니다.
 
 <img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/18b37a62-6448-42a6-930f-ef2a68b2b19c" />
 
@@ -58,7 +58,7 @@ mAP50-95 : 5%부터 95%까지 5% 간격으로 각각의 mAP를 계산하고 평�
 - mAP50-95를 0.85 ~ 0.90까지 올리고 싶음
 
 
-# confusion_matrix.png : Version1의 재학습에 대한 혼동 행렬을 보여줍니다.
+# confusion_matrix.png : Version3의 재학습에 대한 혼동 행렬을 보여줍니다.
 
 <img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/159c6751-f5d7-4d51-8c41-ee356340b684" />
 
