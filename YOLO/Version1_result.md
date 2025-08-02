@@ -19,8 +19,16 @@ train loss : 학습 데이터의 손실 그래프
 
 val loss : 검증 데이터의 손실 그래프
 
+precision : 정확도
 
-### loss Value가 낮아지면 박스 위치 정확도(box_loss), 분류 성능(cls_loss), 경계선 위치 정밀도(dfl_loss)가 향상되고 오류가 적음을 의미합니다.
+recall : 재현율
+
+mAP : 정밀도
+
+
+### 그래프에서 확인할 수 있는 정보
+
+- loss Value가 낮아지면 박스 위치 정확도(box_loss), 분류 성능(cls_loss), 경계선 위치 정밀도(dfl_loss)가 향상되고 오류가 적음을 의미합니다.
 
 - 그래프가 우하향 곡선을 그리면 학습이 잘 진행됨을 의미합니다.
 
