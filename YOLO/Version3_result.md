@@ -51,7 +51,7 @@ mAP50-95 : 5%부터 95%까지 5% 간격으로 각각의 mAP를 계산하고 평�
 
 - 모델이 효과적으로 학습되었고 성능과 위치 정밀도도 괜찮은 정도라고 보여짐
 
-### Version1 개선 사항
+### Version3 개선 사항
 
 - Recall을 0.90까지 올리고 싶음
 
@@ -60,25 +60,27 @@ mAP50-95 : 5%부터 95%까지 5% 간격으로 각각의 mAP를 계산하고 평�
 
 # confusion_matrix.png : Version1의 재학습에 대한 혼동 행렬을 보여줍니다.
 
-<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/9d79c694-c3a8-4655-ac02-bcdfec21f948" />
-
-<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/46c0635d-3921-4c2e-903d-8d6f0a407dce" />
-
-### Verison1 결과
-
-- Center, Donut, Edge-Ring, Random 클래스에 대해서 0.97의 정확도로 분류함
-
-- Edge-Loc, Loc은 상대적으로 낮은 정확도를 나타냄. 심지어 background와의 혼동이 심함
-
-- Near-full의 정확도가 0.85 정도로 머물러 있는 이유는 데이터가 가장 적을 뿐더러 현 Version에서 증강 기법을 적용하지 않았기 때문이라고 생각됨
+<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/159c6751-f5d7-4d51-8c41-ee356340b684" />
 
 
+<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/2ef4ddd9-10d1-453d-b427-253fe118ba8a" />
 
-### Version1 개선 사항
+
+### Verison3 혼동행렬 결과
+
+- Center, Donut, Edge-Ring, Random 클래스에 대해서 0.97 이상의 정확도로 분류함
+
+- Edge-Loc, Loc, Scratch가 Version1에 비해 상대적으로 정확도가 상승함. 데이터 증강 기법이 정확도 상승에 기여하였다고 생각함
+
+- Near-full의 정확도가 0.92 정도로 정확도가 올라감. 데이터 증강 기법을 다양하게 적용시킨 부분이 긍정적으로 작용함
+
+
+
+### Version3 개선 사항
 
 - Edge-Loc와 Loc에 대한 개선이 필요함
 
-- 새로운 Version에서는 데이터 증강 기법을 활용할 필요가 있음
+- 더 이상 유의미한 증강 기법이 없기 때문에 다른 부분에서 찾아야 함
 
 
 
