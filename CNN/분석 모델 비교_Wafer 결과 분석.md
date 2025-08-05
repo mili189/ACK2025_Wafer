@@ -8,13 +8,27 @@
 
 
 
-## 특징
+## 성능 비교 결과
+
+<img width="2121" height="728" alt="image" src="https://github.com/user-attachments/assets/b1aa8328-e7ba-4b7d-adb8-9be6db7dcac8" />
+
+<img width="1116" height="1043" alt="image" src="https://github.com/user-attachments/assets/6750c9ea-ef1c-4612-ae46-78893fcbccbf" />
+
+### 결과
 
 - 총 11개의 분류 모델을 활용하였고 가장 안정적인 모델은 VGG16 모델입니다.
 
+### 장점
+
+- Loc를 제외한 모든 클래스에 대해서 85%의 분류 성능을 확인할 수 있습니다.
+
+- 정확도 그래프와 손실 그래프에서 훈련 셋과 테스트 셋이 평행하게 움직이기 때문에 일반화가 용이하고 과적합이 제어가 되고 있습니다.
+
+### 단점
+
 - 모든 분류 모델이 가지고 있는 취약점이 있습니다. Loc 패턴을 잘 학습하지 못한다는 것입니다. 특히 거의 모든 모델들이 Loc 패턴을 Center 패턴이라고 인식한다는 점이었습니다.
 
-- 
+- 바운딩 박스의 좌표를 같이 입력 데이터로 활용하였지만 위치 구분이 잘 이루어지지 않았습니다.
 
 
 
