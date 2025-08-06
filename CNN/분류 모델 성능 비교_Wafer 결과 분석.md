@@ -53,7 +53,7 @@
 
 
 
-## 2025-08-06 2회차 성능 비교 결과
+# 2025-08-06 2회차 성능 비교 결과
 
 <img width="843" height="602" alt="image" src="https://github.com/user-attachments/assets/59b72a76-82a1-4e2d-b6ca-bb4e538a16ba" />
 
@@ -64,7 +64,7 @@
 
 
 
-## 2025-08-06 3회차 성능 비교 결과
+# 2025-08-06 3회차 성능 비교 결과
 
 
 <img width="868" height="599" alt="image" src="https://github.com/user-attachments/assets/d4aeb2c2-cf42-492d-b971-25ffeda4b6c5" />
@@ -78,7 +78,7 @@
 
 
 
-## 개선 방향
+## 3회차 기준 개선 방향
 
 - 극좌표계 수치 입력을 중심으로 새로운 향상 방법을 연구할 필요가 있어 보임
 
