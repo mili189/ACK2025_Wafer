@@ -53,6 +53,35 @@
 
 
 
+## 2025-08-06 2회차 성능 비교 결과
+
+<img width="843" height="602" alt="image" src="https://github.com/user-attachments/assets/59b72a76-82a1-4e2d-b6ca-bb4e538a16ba" />
+
+
+
+
+
+
+
+
+## 2025-08-06 3회차 성능 비교 결과
+
+
+<img width="868" height="599" alt="image" src="https://github.com/user-attachments/assets/d4aeb2c2-cf42-492d-b971-25ffeda4b6c5" />
+
+- 바운딩 박스의 극좌표계 수치(반지름, 각도)를 추가하여 입력
+
+
+<img width="1065" height="1051" alt="image" src="https://github.com/user-attachments/assets/39182cf1-cf53-4bad-b803-08fe54ebb883" />
+
+- DenseNet121 모델 기준 Loc 패턴의 정확도가 향상된 것으로 확인됨
+
+
+
+## 개선 방향
+
+- 극좌표계 수치 입력을 중심으로 새로운 향상 방법을 연구할 필요가 있어 보임
+
 
 
 
