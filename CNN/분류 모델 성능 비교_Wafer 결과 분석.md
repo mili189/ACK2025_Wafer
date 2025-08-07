@@ -12,9 +12,11 @@
 
 ## 성능 비교 결과
 
-<img width="2121" height="728" alt="image" src="https://github.com/user-attachments/assets/b1aa8328-e7ba-4b7d-adb8-9be6db7dcac8" />
+<img width="1075" height="1045" alt="image" src="https://github.com/user-attachments/assets/6de8dd85-2edc-42ba-922a-34de24d7a9ea" />
 
-<img width="1116" height="1043" alt="image" src="https://github.com/user-attachments/assets/6750c9ea-ef1c-4612-ae46-78893fcbccbf" />
+
+<img width="1124" height="1034" alt="image" src="https://github.com/user-attachments/assets/32a0c4e4-7195-4d5b-a741-1b4670de14f6" />
+
 
 ### 결과
 
