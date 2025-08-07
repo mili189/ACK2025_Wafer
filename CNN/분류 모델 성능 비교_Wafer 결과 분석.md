@@ -53,9 +53,10 @@
 
 
 
-# 2025-08-06 2회차 성능 비교 결과
+# 2025-08-07 '분류 모델 성능 비교_Wafer_극좌표계' 실행 결과
 
-<i과
+<img width="866" height="608" alt="image" src="https://github.com/user-attachments/assets/49e15389-dc66-4d79-acb5-738dd8fe81ac" />
+
 
 <img width="866" height="609" alt="image" src="https://github.com/user-attachments/assets/4b2a61a3-a4d4-4a94-8d28-bd04b12be416" />
 
