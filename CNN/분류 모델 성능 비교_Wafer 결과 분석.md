@@ -58,7 +58,8 @@
 <img width="866" height="608" alt="image" src="https://github.com/user-attachments/assets/49e15389-dc66-4d79-acb5-738dd8fe81ac" />
 
 
-<img width="866" height="609" alt="image" src="https://github.com/user-attachments/assets/4b2a61a3-a4d4-4a94-8d28-bd04b12be416" />
+<img width="1075" height="1045" alt="image" src="https://github.com/user-attachments/assets/5aafcdee-512f-4e66-9cc2-b579573620f7" />
+
 
 변경점
 - 입력 데이터 중 하나인 바운딩 박스의 좌표 정보에서 극좌표계(반지름, 각도) 수치를 추가하였습니다.
