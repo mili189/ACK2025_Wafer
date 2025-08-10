@@ -1,3 +1,30 @@
+
+'''
+- Original image : 웨이퍼 빈 맵 원본 이미지
+- Cropped image : 결함 패턴만을 따로 저장한 이미지
+- class : 결함 클래스
+
+- x_center_norm : 바운딩 박스의 X 위치
+- y_center_norm : 바운딩 박스의 Y 위치
+- width_norm : 바운딩 박스의 너비
+- height_norm : 바운딩 박스의 높이
+
+- wafer_cx_norm : 웨이퍼 원본 이미지 중심의 x 좌표 (0.5 고정)
+- wafer_cy_norm : 웨이퍼 원본 이미지 중심의 y 좌표 (0.5 고정)
+- wafer_r_norm : 웨이퍼의 반지름 (0.5 고정)
+- r_norm : 결함의 바운딩 박스 중심과 웨이퍼 중심까지의 거리
+- theta_rad : 웨이퍼 중심부터 결함의 바운딩 박스 중심까지의 각도
+- sin_theta, cos_theta : theta 각도의 sin, cos 변환
+
+- area_norm : 결함의 전체 크기 (바운딩 박스의 넓이)
+- aspect_log : 결함의 모양이 정사각형 or 직사각형에 가까운지
+- edge_margin : 가장자리부터 결함까지의 거리
+
+- rad_bin : 중심에서 가장자리까지의 거리를 8개의 구간으로 나누고 해당 결함이 몇 번째 구간에 존재하는지 정함
+- sec_bin : 360도 방향을 16개의 구간으로 나누고 해당 결함이 몇 번째 구간에 존재하는지 정함
+'''
+
+
 import os, cv2, torch, pandas as pd, numpy as np
 from ultralytics import YOLO
 
@@ -122,4 +149,5 @@ for class_name in os.listdir(input_root):
 # CSV 저장
 df = pd.DataFrame(bbox_dataset)
 df.to_csv("bbox_info_v5.csv", index=False)
+
 print("✅ bbox_info_v5.csv 저장 완료.")
