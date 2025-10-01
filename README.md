@@ -8,7 +8,7 @@
 - [1] Ming-Ju Wu, Jyh-Shing Roger Jang, and Jui-Long Chen, "Wafer Map Failure Pattern Recognition and Similarity Ranking for Large-Scale Data Sets," in IEEE Transactions on Semiconductor Manufacturing, vol. 28, no. 1, pp. 1-12, Feb. 2015, doi: 10.1109/TSM.2014.2364237.
 - [2] MIR-WM811K: Dataset for wafer map failure pattern recognition, 2015 http://mirlab.org/dataset/public/
  
-## 2️⃣ 내용
+## 2️⃣ 내용 {PPT}
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/da18a7f3-77a5-45f4-9580-de4b64734c90" />
 <img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/88867d15-6106-413a-a883-04a4885f78e7" />
 <img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/62a9858f-1c9d-476b-809c-6631cb02366b" />
@@ -32,8 +32,17 @@
 <img width="1280" height="720" alt="슬라이드21" src="https://github.com/user-attachments/assets/74a47cbd-1e99-41d7-8a11-fd73d69f7c2e" />
 <img width="1280" height="720" alt="슬라이드22" src="https://github.com/user-attachments/assets/788c8e78-f810-4a44-92b9-16eea76fbd9c" />
 
-
 ## 3️⃣ 연구 결과
--
+
+<img width="1662" height="801" alt="image" src="https://github.com/user-attachments/assets/ad20b34a-984a-4048-b542-74844597b323" />
+
+
 ## 4️⃣ 한계 & 보완할 점들
--
+
+- YOLOv11n과 다중 브랜치 분류 모델로 재학습을 완료한 모델은 검출 및 분류에 한계가 보임
+- 웨이퍼 이미지를 추가하여 성능을 높이고 특징 분류의 매커니즘을 향상시켜 오분류 사례를 줄이는 방향으로 보완해야 함
+
+
+
+
+
