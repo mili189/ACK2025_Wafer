@@ -9,7 +9,9 @@
 - [2] MIR-WM811K: Dataset for wafer map failure pattern recognition, 2015 http://mirlab.org/dataset/public/
  
 ## 2️⃣ 내용
--
+[Uploading ASK2025_웨이퍼_PPT_251001_최종본.pptx…]()
+
+
 ## 3️⃣ 연구 결과
 -
 ## 4️⃣ 한계 & 보완할 점들
