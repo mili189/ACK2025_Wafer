@@ -32,14 +32,17 @@
 
 
 
-### - YOLOv11n 결함 검출 성능
+### YOLOv11n 결함 검출 성능
 <img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/c1706119-362f-44d7-bb51-ff0a686a0f81" />
 
-### - 다중 브랜치 분류 모델의 결함 분류 성능
+### 결함 검출 결과
+<img width="1280" height="720" alt="슬라이드9" src="https://github.com/user-attachments/assets/0d4569c0-abb4-4f71-a3e3-cd236bfb5cd5" />
+
+### 다중 브랜치 분류 모델의 결함 분류 성능
 <img width="1280" height="720" alt="슬라이드17" src="https://github.com/user-attachments/assets/c7073fc4-37ae-454e-9606-41f39f676af7" />
 
-### - 최종 출력
-<img width="1662" height="801" alt="image" src="https://github.com/user-attachments/assets/ad20b34a-984a-4048-b542-74844597b323" />
+### 최종 출력
+<img width="1280" height="720" alt="슬라이드18" src="https://github.com/user-attachments/assets/759e36fc-02cd-4240-8623-7a227220cdf8" />
 
 
 
