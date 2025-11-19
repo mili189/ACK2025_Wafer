@@ -33,11 +33,13 @@
 
 
 
-
+### - YOLOv11n 결함 검출 성능
 <img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/c1706119-362f-44d7-bb51-ff0a686a0f81" />
 
+### - 다중 브랜치 분류 모델의 결함 분류 성능
 <img width="1280" height="720" alt="슬라이드17" src="https://github.com/user-attachments/assets/c7073fc4-37ae-454e-9606-41f39f676af7" />
 
+### - 최종 출력
 <img width="1662" height="801" alt="image" src="https://github.com/user-attachments/assets/ad20b34a-984a-4048-b542-74844597b323" />
 
 
@@ -54,8 +56,8 @@
 
 <img width="1280" height="720" alt="슬라이드20" src="https://github.com/user-attachments/assets/8c98b819-3154-4cbe-a005-0eab82b3d5ac" />
 
-- YOLOv11n과 다중 브랜치 분류 모델로 재학습을 완료한 모델은 검출 및 분류에 한계가 보임
-- 웨이퍼 이미지를 추가하여 성능을 높이고 특징 분류의 매커니즘을 향상시켜 오분류 사례를 줄이는 방향으로 보완해야 함
+- 다중 브랜치 분류 모델은 공간적 특징과 시각적 특징을 융합하여 분류하는 과정에서 오류가 있음
+- 새로운 특징 융합 기술을 적용하여 해당 오류를 보완하고 성능을 높이는 방향으로 연구가 필요함
 
 
 
