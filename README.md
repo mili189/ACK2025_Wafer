@@ -28,7 +28,7 @@
 
 
 
-## 3️⃣ 연구 결과
+## 3️⃣ 연구 결과 {PPT}
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-## 4️⃣ 한계 & 보완할 점들
+## 4️⃣ 한계 & 보완할 점들 {PPT}
 
 <img width="1280" height="720" alt="슬라이드20" src="https://github.com/user-attachments/assets/8c98b819-3154-4cbe-a005-0eab82b3d5ac" />
 
