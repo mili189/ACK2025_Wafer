@@ -6,6 +6,7 @@
 하지만 기존 산업 현장에서는 고집적화된 웨이퍼 맵을 육안으로 검사하는 방식은 검사 시간을 필연적으로 늘리고 검사자의 주관적 판단은 인적 오류의 가능성을 높일 수 있다. 이를 해결하기 위해서 웨이퍼 맵 상 결함 패턴을 자동으로 탐지하고 분류하는 웨이퍼 결함 패턴 분류 알고리즘을 구현하였다. 이 알고리즘을 통해 생산 라인을 자동화하고 일관된 판별 기준을 확립하여 검사 효율을 극대화하고 판별 오류를 최소화하고자 한다.
 
 - 저자 : 이성재, 용규순, 김민지, 류병석, 오준석, 김영균
+
   
 ## 1️⃣ 데이터셋
 - MIR-WM811K dataset
@@ -15,7 +16,6 @@
 
 
 ## 2️⃣ 내용 {PPT}
-<img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/f1f9b779-3d67-43ec-bce6-f36dd3f634b7" />
 <img width="1280" height="720" alt="슬라이드5" src="https://github.com/user-attachments/assets/016a2846-77fe-467d-9bb7-7ccb97f96feb" />
 <img width="1280" height="720" alt="슬라이드6" src="https://github.com/user-attachments/assets/47837c47-2388-4181-8392-b377bb52e231" />
 <img width="1280" height="720" alt="슬라이드8" src="https://github.com/user-attachments/assets/6a0ff562-3622-4747-9431-51f2618e4bfc" />
