@@ -11,7 +11,9 @@
 - MIR-WM811K dataset
 - [1] Ming-Ju Wu, Jyh-Shing Roger Jang, and Jui-Long Chen, "Wafer Map Failure Pattern Recognition and Similarity Ranking for Large-Scale Data Sets," in IEEE Transactions on Semiconductor Manufacturing, vol. 28, no. 1, pp. 1-12, Feb. 2015, doi: 10.1109/TSM.2014.2364237.
 - [2] MIR-WM811K: Dataset for wafer map failure pattern recognition, 2015 http://mirlab.org/dataset/public/
- 
+- WM-811K 데이터셋은 총 811457개의 웨이퍼 맵으로 구성되어 있으며 본 연구에서는 8009개의 데이터셋을 선별하여 학습 및 평가에 사용함
+
+
 ## 2️⃣ 내용 {PPT}
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/21388df7-c2e4-4363-af38-6d13f08c5055" />
 <img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/c7b9df89-8e71-4207-a54d-336685e2f501" />
