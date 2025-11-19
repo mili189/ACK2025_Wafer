@@ -26,12 +26,6 @@
 <img width="1280" height="720" alt="슬라이드13" src="https://github.com/user-attachments/assets/472cf04f-dadb-427f-9755-2e98a58880f1" />
 <img width="1280" height="720" alt="슬라이드14" src="https://github.com/user-attachments/assets/21c9e164-5dc6-47c1-8415-1bd3d56453ba" />
 <img width="1280" height="720" alt="슬라이드15" src="https://github.com/user-attachments/assets/9ba38597-a789-4892-a1b5-895888412456" />
-<img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/c1706119-362f-44d7-bb51-ff0a686a0f81" />
-<img width="1280" height="720" alt="슬라이드17" src="https://github.com/user-attachments/assets/c7073fc4-37ae-454e-9606-41f39f676af7" />
-<img width="1280" height="720" alt="슬라이드18" src="https://github.com/user-attachments/assets/7b8a6071-37fa-48e5-8beb-300b6e41379e" />
-<img width="1280" height="720" alt="슬라이드19" src="https://github.com/user-attachments/assets/1f730c17-e7c8-4c9f-ac55-011166901735" />
-<img width="1280" height="720" alt="슬라이드20" src="https://github.com/user-attachments/assets/8c98b819-3154-4cbe-a005-0eab82b3d5ac" />
-<img width="1280" height="720" alt="슬라이드21" src="https://github.com/user-attachments/assets/58ac646a-b376-40ad-907d-5fb0e634101b" />
 
 
 
@@ -40,9 +34,9 @@
 
 
 
+<img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/c1706119-362f-44d7-bb51-ff0a686a0f81" />
 
-
-
+<img width="1280" height="720" alt="슬라이드17" src="https://github.com/user-attachments/assets/c7073fc4-37ae-454e-9606-41f39f676af7" />
 
 <img width="1662" height="801" alt="image" src="https://github.com/user-attachments/assets/ad20b34a-984a-4048-b542-74844597b323" />
 
@@ -57,6 +51,8 @@
 
 
 ## 4️⃣ 한계 & 보완할 점들
+
+<img width="1280" height="720" alt="슬라이드20" src="https://github.com/user-attachments/assets/8c98b819-3154-4cbe-a005-0eab82b3d5ac" />
 
 - YOLOv11n과 다중 브랜치 분류 모델로 재학습을 완료한 모델은 검출 및 분류에 한계가 보임
 - 웨이퍼 이미지를 추가하여 성능을 높이고 특징 분류의 매커니즘을 향상시켜 오분류 사례를 줄이는 방향으로 보완해야 함
