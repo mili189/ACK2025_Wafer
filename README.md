@@ -15,13 +15,9 @@
 
 
 ## 2️⃣ 내용 {PPT}
-<img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/21388df7-c2e4-4363-af38-6d13f08c5055" />
-<img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/c7b9df89-8e71-4207-a54d-336685e2f501" />
-<img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/8efe3647-4771-48e9-8ade-a78c11c96712" />
 <img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/f1f9b779-3d67-43ec-bce6-f36dd3f634b7" />
 <img width="1280" height="720" alt="슬라이드5" src="https://github.com/user-attachments/assets/016a2846-77fe-467d-9bb7-7ccb97f96feb" />
 <img width="1280" height="720" alt="슬라이드6" src="https://github.com/user-attachments/assets/47837c47-2388-4181-8392-b377bb52e231" />
-<img width="1280" height="720" alt="슬라이드7" src="https://github.com/user-attachments/assets/70069570-6695-469f-9d38-674658ab26ec" />
 <img width="1280" height="720" alt="슬라이드8" src="https://github.com/user-attachments/assets/6a0ff562-3622-4747-9431-51f2618e4bfc" />
 <img width="1280" height="720" alt="슬라이드9" src="https://github.com/user-attachments/assets/95f24c63-f5f3-42de-a493-b4cfffbc43cd" />
 <img width="1280" height="720" alt="슬라이드10" src="https://github.com/user-attachments/assets/068f2762-1319-422e-9bb7-f6fce8202eba" />
